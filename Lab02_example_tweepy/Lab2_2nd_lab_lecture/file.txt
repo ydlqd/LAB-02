@@ -1,5 +1,4 @@
 replace me with consumer key 3eeMdnGbDWebBN0p9i6L3HkrW
 replace me with consumer key secret nES6nuNLiJa6THQe9YqeSrg8mj1kADTrq07In0tcdcco1f0GJh
-replace me with access token
-replace me with access token secret
-AAAAAAAAAAAAAAAAAAAAAJ9DZQEAAAAAm0fdDHLO5fDvFU%2FdzzylRJ%2FoXnQ%3DbYuwcopPmsyRBISQpdCldAwT3yNByuUTD7l68GDvdigR1tNZnQ
+replace me with access token  1494076192726691844-LPphEqMNW7vK4w3fqB9jtu5DAAiG1O
+replace me with access token secret KojsVaBquAA7qA0xV3wPZRtUakk8snVKsW7LLtiFqvG3n
